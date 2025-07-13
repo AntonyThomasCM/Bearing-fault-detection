@@ -7,7 +7,7 @@ from scipy.fft import fft, fftfreq
 from sklearn.preprocessing import StandardScaler
 
 # Load model and scaler
-model = joblib.load("xgb_model.pkl")
+model = joblib.load("xgb_model_clean.pkl")
 scaler = joblib.load("scaler.pkl")
 
 # Define constants
