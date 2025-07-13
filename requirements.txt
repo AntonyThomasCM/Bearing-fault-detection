@@ -6,3 +6,4 @@ xgboost
 scipy
 openpyxl
 joblib
+dill
